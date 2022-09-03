@@ -1,4 +1,4 @@
-// Take 8 char and display whether it is a valid password
+// Take 10 charecters by converting them to upper charecters 
 #include <stdio.h>
 #include <conio.h>
 #include <ctype.h>
